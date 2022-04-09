@@ -7,7 +7,7 @@ int main()
     scanf("%d",&a);
     if(a>=0)
     {
-        printf("HIMANSHU YOUR NUMBER IS POSITIVE\n");
+        printf("HEY HIMANSHU YOUR NUMBER IS POSITIVE\n");
     }
 
     if(a<0)
