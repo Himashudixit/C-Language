@@ -7,7 +7,7 @@ int main()
     scanf("%d",&a);
     if(a>=0)
     {
-        printf("YOUR NETRED NUMBER IS POSITIVE\n");
+        printf("YOUR ENETRED NUMBER IS POSITIVE\n");
     }
 
     if(a<0)
